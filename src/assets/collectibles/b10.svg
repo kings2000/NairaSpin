@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"><defs>
+<linearGradient id="body" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F2B27C"/><stop offset=".5" stop-color="#C9773C"/><stop offset="1" stop-color="#7A3D14"/></linearGradient>
+<linearGradient id="bodyV" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#F2B27C"/><stop offset=".55" stop-color="#C9773C"/><stop offset="1" stop-color="#7A3D14"/></linearGradient>
+<linearGradient id="side" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#7A3D14"/><stop offset=".3" stop-color="#F2B27C"/><stop offset=".6" stop-color="#C9773C"/><stop offset="1" stop-color="#7A3D14"/></linearGradient>
+<radialGradient id="face" cx=".35" cy=".3" r=".85"><stop offset="0" stop-color="#FFE3C4"/><stop offset=".3" stop-color="#F2B27C"/><stop offset=".7" stop-color="#C9773C"/><stop offset="1" stop-color="#7A3D14"/></radialGradient>
+</defs><ellipse cx="64" cy="117" rx="40" ry="6.5" fill="#000" opacity=".28"/><path d="M26,82 L26,92 A36,11.5 0 0 0 98,92 L98,82 Z" fill="url(#side)" stroke="#3A1C08" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<ellipse cx="62" cy="82" rx="36" ry="11.5" fill="url(#face)" stroke="#3A1C08" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<ellipse cx="62" cy="82" rx="29" ry="8.9" fill="none" stroke="#7A3D14" stroke-width="1.6" opacity=".55"/>
+<path d="M31,66 L31,76 A36,11.5 0 0 0 103,76 L103,66 Z" fill="url(#side)" stroke="#3A1C08" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<ellipse cx="67" cy="66" rx="36" ry="11.5" fill="url(#face)" stroke="#3A1C08" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<ellipse cx="67" cy="66" rx="29" ry="8.9" fill="none" stroke="#7A3D14" stroke-width="1.6" opacity=".55"/>
+<path d="M25,50 L25,60 A36,11.5 0 0 0 97,60 L97,50 Z" fill="url(#side)" stroke="#3A1C08" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<ellipse cx="61" cy="50" rx="36" ry="11.5" fill="url(#face)" stroke="#3A1C08" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<ellipse cx="61" cy="50" rx="29" ry="8.9" fill="none" stroke="#7A3D14" stroke-width="1.6" opacity=".55"/>
+<path d="M61.0,40.0L62.9,45.4L68.1,42.9L65.6,48.1L71.0,50.0L65.6,51.9L68.1,57.1L62.9,54.6L61.0,60.0L59.1,54.6L53.9,57.1L56.4,51.9L51.0,50.0L56.4,48.1L53.9,42.9L59.1,45.4Z" transform="translate(0 34) scale(1 .32)" fill="#7A3D14" opacity=".75"/>
+<path d="M36,47 A27,8 0 0 1 65,41" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" opacity="0.75"/><g><rect x="43.7" y="101" width="40.599999999999994" height="20" rx="10" fill="#3A1C08" stroke="#F2B27C" stroke-width="1.6"/>
+<text x="64" y="115.6" text-anchor="middle" font-family="'Arial Black','Segoe UI Black','Helvetica Neue',Arial,sans-serif" font-weight="900" font-size="12.5" fill="#FFD9AE">₦10</text></g></svg>

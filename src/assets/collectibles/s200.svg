@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"><defs>
+<linearGradient id="body" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F0F3F8"/><stop offset=".5" stop-color="#BCC5D2"/><stop offset="1" stop-color="#6B7587"/></linearGradient>
+<linearGradient id="bodyV" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#F0F3F8"/><stop offset=".55" stop-color="#BCC5D2"/><stop offset="1" stop-color="#6B7587"/></linearGradient>
+<linearGradient id="side" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#6B7587"/><stop offset=".3" stop-color="#F0F3F8"/><stop offset=".6" stop-color="#BCC5D2"/><stop offset="1" stop-color="#6B7587"/></linearGradient>
+<radialGradient id="face" cx=".35" cy=".3" r=".85"><stop offset="0" stop-color="#FFFFFF"/><stop offset=".3" stop-color="#F0F3F8"/><stop offset=".7" stop-color="#BCC5D2"/><stop offset="1" stop-color="#6B7587"/></radialGradient>
+</defs><ellipse cx="64" cy="117" rx="46" ry="6.5" fill="#000" opacity=".28"/>
+<path d="M14,96 L26,60 L102,60 L114,96 Z" fill="url(#bodyV)" stroke="#232936" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M26,60 L38,36 L90,36 L102,60 Z" fill="url(#face)" stroke="#232936" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M48,42 L80,42 L86,54 L42,54 Z" fill="none" stroke="#6B7587" stroke-width="2" opacity=".7"/>
+<path d="M64.0,42.0L65.7,46.3L70.0,48.0L65.7,49.7L64.0,54.0L62.3,49.7L58.0,48.0L62.3,46.3Z" fill="#6B7587" opacity=".8"/>
+<path d="M32,72 L96,72 M28,84 L100,84" stroke="#6B7587" stroke-width="2" opacity=".35"/>
+<path d="M34,40 L52,40" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round" opacity="0.9"/><path d="M22,90 L30,66" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" opacity="0.6"/>
+<g><rect x="39.6" y="101" width="48.8" height="20" rx="10" fill="#232936" stroke="#F0F3F8" stroke-width="1.6"/>
+<text x="64" y="115.6" text-anchor="middle" font-family="'Arial Black','Segoe UI Black','Helvetica Neue',Arial,sans-serif" font-weight="900" font-size="12.5" fill="#EEF2F8">₦200</text></g></svg>

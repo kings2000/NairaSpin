@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"><defs>
+<linearGradient id="body" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFE38A"/><stop offset=".5" stop-color="#EFB63B"/><stop offset="1" stop-color="#A5640E"/></linearGradient>
+<linearGradient id="bodyV" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFE38A"/><stop offset=".55" stop-color="#EFB63B"/><stop offset="1" stop-color="#A5640E"/></linearGradient>
+<linearGradient id="side" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#A5640E"/><stop offset=".3" stop-color="#FFE38A"/><stop offset=".6" stop-color="#EFB63B"/><stop offset="1" stop-color="#A5640E"/></linearGradient>
+<radialGradient id="face" cx=".35" cy=".3" r=".85"><stop offset="0" stop-color="#FFFBE3"/><stop offset=".3" stop-color="#FFE38A"/><stop offset=".7" stop-color="#EFB63B"/><stop offset="1" stop-color="#A5640E"/></radialGradient>
+</defs><ellipse cx="64" cy="117" rx="48" ry="6.5" fill="#000" opacity=".28"/>
+<path d="M18,58 L110,58 L110,100 Q110,104 106,104 L22,104 Q18,104 18,100 Z" fill="url(#bodyV)" stroke="#3B2302" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M18,58 C18,30 40,22 64,22 C88,22 110,30 110,58 Z" fill="url(#face)" stroke="#3B2302" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M34,26 L34,104 M94,26 L94,104" stroke="#A5640E" stroke-width="7" opacity=".55"/>
+<path d="M18,58 L110,58" stroke="#3B2302" stroke-width="3"/>
+<rect x="54" y="50" width="20" height="24" rx="4" fill="#3B2302"/>
+<rect x="57" y="53" width="14" height="18" rx="3" fill="url(#body)"/>
+<circle cx="64" cy="60" r="2.4" fill="#3B2302"/><path d="M64,61 L64,67" stroke="#3B2302" stroke-width="2.4" stroke-linecap="round"/>
+<circle cx="64" cy="38" r="5" fill="#E5484D" stroke="#3B2302" stroke-width="2"/>
+<path d="M28,48 C30,36 40,30 52,28" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round" opacity="0.8"/>
+<g><rect x="31.400000000000006" y="101" width="65.19999999999999" height="20" rx="10" fill="#3B2302" stroke="#FFE38A" stroke-width="1.6"/>
+<text x="64" y="115.6" text-anchor="middle" font-family="'Arial Black','Segoe UI Black','Helvetica Neue',Arial,sans-serif" font-weight="900" font-size="12.5" fill="#FFE08A">₦1,000</text></g></svg>

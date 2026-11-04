@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"><defs>
+<linearGradient id="body" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFE38A"/><stop offset=".5" stop-color="#EFB63B"/><stop offset="1" stop-color="#A5640E"/></linearGradient>
+<linearGradient id="bodyV" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFE38A"/><stop offset=".55" stop-color="#EFB63B"/><stop offset="1" stop-color="#A5640E"/></linearGradient>
+<linearGradient id="side" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#A5640E"/><stop offset=".3" stop-color="#FFE38A"/><stop offset=".6" stop-color="#EFB63B"/><stop offset="1" stop-color="#A5640E"/></linearGradient>
+<radialGradient id="face" cx=".35" cy=".3" r=".85"><stop offset="0" stop-color="#FFFBE3"/><stop offset=".3" stop-color="#FFE38A"/><stop offset=".7" stop-color="#EFB63B"/><stop offset="1" stop-color="#A5640E"/></radialGradient>
+</defs><ellipse cx="64" cy="117" rx="44" ry="6.5" fill="#000" opacity=".28"/>
+<path d="M18,90 L22,42 L42,62 L52,24 L64,52 L76,24 L86,62 L106,42 L110,90 Z" fill="url(#body)" stroke="#3B2302" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="16" y="80" width="96" height="18" rx="6" fill="url(#bodyV)" stroke="#3B2302" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<g fill="#3B2302"><circle cx="22" cy="40" r="6"/><circle cx="52" cy="22" r="6"/><circle cx="76" cy="22" r="6"/><circle cx="106" cy="40" r="6"/></g>
+<g fill="#FFFBE3"><circle cx="22" cy="40" r="3.6"/><circle cx="52" cy="22" r="3.6"/><circle cx="76" cy="22" r="3.6"/><circle cx="106" cy="40" r="3.6"/></g>
+<circle cx="64" cy="89" r="6" fill="#E5484D" stroke="#3B2302" stroke-width="2"/>
+<circle cx="40" cy="89" r="4.5" fill="#22B573" stroke="#3B2302" stroke-width="2"/>
+<circle cx="88" cy="89" r="4.5" fill="#22B573" stroke="#3B2302" stroke-width="2"/>
+<path d="M30,74 L98,74" stroke="#A5640E" stroke-width="2" opacity=".45"/>
+<path d="M28,52 L30,78" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" opacity="0.75"/><path d="M24,84 L46,84" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" opacity="0.8"/>
+<g><rect x="39.6" y="101" width="48.8" height="20" rx="10" fill="#3B2302" stroke="#FFE38A" stroke-width="1.6"/>
+<text x="64" y="115.6" text-anchor="middle" font-family="'Arial Black','Segoe UI Black','Helvetica Neue',Arial,sans-serif" font-weight="900" font-size="12.5" fill="#FFE08A">₦500</text></g></svg>

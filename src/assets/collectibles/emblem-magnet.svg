@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"><defs>
+<linearGradient id="body" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFE38A"/><stop offset=".5" stop-color="#EFB63B"/><stop offset="1" stop-color="#A5640E"/></linearGradient>
+<linearGradient id="bodyV" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFE38A"/><stop offset=".55" stop-color="#EFB63B"/><stop offset="1" stop-color="#A5640E"/></linearGradient>
+<linearGradient id="side" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#A5640E"/><stop offset=".3" stop-color="#FFE38A"/><stop offset=".6" stop-color="#EFB63B"/><stop offset="1" stop-color="#A5640E"/></linearGradient>
+<radialGradient id="face" cx=".35" cy=".3" r=".85"><stop offset="0" stop-color="#FFFBE3"/><stop offset=".3" stop-color="#FFE38A"/><stop offset=".7" stop-color="#EFB63B"/><stop offset="1" stop-color="#A5640E"/></radialGradient>
+</defs><ellipse cx="64" cy="117" rx="34" ry="6.5" fill="#000" opacity=".28"/>
+<path d="M30,24 L30,66 A34,34 0 0 0 98,66 L98,24 L78,24 L78,66 A14,14 0 0 1 50,66 L50,24 Z" fill="#E5484D" stroke="#3A0B0D" stroke-width="3" stroke-linejoin="round"/>
+<rect x="30" y="14" width="20" height="16" rx="3" fill="#F0F3F8" stroke="#232936" stroke-width="3"/>
+<rect x="78" y="14" width="20" height="16" rx="3" fill="#F0F3F8" stroke="#232936" stroke-width="3"/>
+<path d="M36,40 L36,66" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round" opacity="0.6"/>
+<path d="M14,18 L22,22 M10,32 L20,32 M108,18 L116,14 M108,32 L118,32" stroke="#EFB63B" stroke-width="3" stroke-linecap="round"/></svg>

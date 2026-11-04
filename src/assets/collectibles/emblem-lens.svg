@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"><defs>
+<linearGradient id="body" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFE38A"/><stop offset=".5" stop-color="#EFB63B"/><stop offset="1" stop-color="#A5640E"/></linearGradient>
+<linearGradient id="bodyV" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFE38A"/><stop offset=".55" stop-color="#EFB63B"/><stop offset="1" stop-color="#A5640E"/></linearGradient>
+<linearGradient id="side" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#A5640E"/><stop offset=".3" stop-color="#FFE38A"/><stop offset=".6" stop-color="#EFB63B"/><stop offset="1" stop-color="#A5640E"/></linearGradient>
+<radialGradient id="face" cx=".35" cy=".3" r=".85"><stop offset="0" stop-color="#FFFBE3"/><stop offset=".3" stop-color="#FFE38A"/><stop offset=".7" stop-color="#EFB63B"/><stop offset="1" stop-color="#A5640E"/></radialGradient>
+</defs><ellipse cx="64" cy="117" rx="34" ry="6.5" fill="#000" opacity=".28"/>
+<path d="M78,78 L108,108" stroke="#3B2302" stroke-width="16" stroke-linecap="round"/>
+<path d="M78,78 L108,108" stroke="url(#body)" stroke-width="10" stroke-linecap="round"/>
+<circle cx="54" cy="54" r="38" fill="url(#body)" stroke="#3B2302" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="54" cy="54" r="28" fill="#CDEBFF" stroke="#A5640E" stroke-width="2"/>
+<g fill="#3B2302" opacity=".55"><rect x="40" y="40" width="8" height="8" rx="2"/><rect x="50" y="50" width="8" height="8" rx="2"/><rect x="60" y="60" width="8" height="8" rx="2"/></g>
+<path d="M36,40 A22,22 0 0 1 50,30" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round" opacity="0.9"/></svg>
